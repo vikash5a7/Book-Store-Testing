@@ -58,6 +58,7 @@ public class BaseClass {
 			System.setProperty("webdriver.ie.driver",readConfig.getIEPath());
 			driver = new InternetExplorerDriver();
 		}
+		driver.manage().window().maximize();
 	}
 	public void captureScreen(WebDriver driver, String tname) throws IOException {
 		TakesScreenshot ts = (TakesScreenshot) driver;

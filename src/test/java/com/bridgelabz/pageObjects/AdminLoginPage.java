@@ -30,6 +30,19 @@ public class AdminLoginPage {
 	@FindBy(xpath="//span[contains(text(),'Login As Admin')]")
 	WebElement btnAdmin; 
 	
+	@CacheLookup
+	@FindBy(xpath="//mat-icon[contains(text(),'account_circle')]")
+	WebElement dashBoarBoardMenuButton;
+	
+	
+	@CacheLookup
+	@FindBy(xpath="//button[@class='signout-button mat-button mat-button-base']")
+	WebElement logoutBtn;
+	
+	
+	@CacheLookup
+	@FindBy(xpath="//span[contains(text(),'Login')]")
+	WebElement loginBtnOfDashboard;
 	public void setEmailAddress(String userEmail)
 	{
 		email.sendKeys(userEmail);
@@ -51,5 +64,15 @@ public class AdminLoginPage {
 	
 	public boolean isEnabledBtUserButton() {
 		return btnUserLogin.isEnabled();
+	}
+	
+	public void dashboardMenuButtonClick() {
+		dashBoarBoardMenuButton.click();
+	}
+	public void clickOnLogoutBtn() {
+		logoutBtn.click();
+	}
+	public void clickOnLoginButton() {
+		loginBtnOfDashboard.click();
 	}
 }

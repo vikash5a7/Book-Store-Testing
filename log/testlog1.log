@@ -34,3 +34,107 @@
 2020-05-20 20:14:49,161 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
 2020-05-20 20:14:53,698 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
 2020-05-20 20:14:53,842 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 20:34:10,266 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====vikas
+2020-05-20 20:34:10,314 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
+2020-05-20 20:34:13,490 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 20:34:13,624 [main] INFO Book Store Testing  - User password entered vikas
+2020-05-20 20:41:08,282 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-20 20:41:08,288 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
+2020-05-20 20:41:11,753 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 20:41:11,939 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 20:41:19,096 [main] INFO Book Store Testing  - test case Passed....
+2020-05-20 20:42:01,751 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.comwepassword====vikash1
+2020-05-20 20:42:01,758 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
+2020-05-20 20:42:06,210 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.comwe
+2020-05-20 20:42:06,379 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 20:42:13,491 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 20:42:14,197 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed5177
+2020-05-20 20:43:06,344 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.copassword====vikash1
+2020-05-20 20:43:06,350 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
+2020-05-20 20:43:09,505 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.co
+2020-05-20 20:43:09,667 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 20:43:16,842 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 20:43:17,234 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed9911
+2020-05-20 20:58:26,592 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.copassword====vikash1
+2020-05-20 20:58:26,598 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
+2020-05-20 20:58:29,978 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.co
+2020-05-20 20:58:30,128 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 20:58:37,305 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 20:58:37,657 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed2018
+2020-05-20 20:59:01,250 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-20 20:59:01,256 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
+2020-05-20 20:59:04,760 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 20:59:04,996 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 20:59:12,213 [main] INFO Book Store Testing  - test case Passed....
+2020-05-20 21:01:10,768 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-20 21:01:10,775 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
+2020-05-20 21:01:13,919 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 21:01:14,067 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 21:01:19,415 [main] INFO Book Store Testing  - test case Passed....
+2020-05-20 21:34:51,824 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-20 21:34:51,841 [main] INFO Book Store Testing  - ********* starting TC_LoginDDT_001 *************
+2020-05-20 21:34:55,359 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 21:34:55,510 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 21:35:00,748 [main] INFO Book Store Testing  - test case Passed....
+2020-05-20 21:56:50,159 [main] INFO Book Store Testing  - ********* Login with InValid cridential *************
+2020-05-20 21:56:50,199 [main] INFO Book Store Testing  - Email---mZcfVlsRkr@gmail.compassword====AymsSVzvX
+2020-05-20 21:56:50,199 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:56:53,516 [main] INFO Book Store Testing  - User email entered mZcfVlsRkr@gmail.com
+2020-05-20 21:56:53,922 [main] INFO Book Store Testing  - User password entered AymsSVzvX
+2020-05-20 21:56:59,106 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 21:56:59,463 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed4084
+2020-05-20 21:56:59,521 [main] INFO Book Store Testing  - ********* Login with valid Email But Invalid password *************
+2020-05-20 21:56:59,522 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====gHpIiwENXodE
+2020-05-20 21:56:59,522 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:57:02,451 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 21:57:02,667 [main] INFO Book Store Testing  - User password entered gHpIiwENXodE
+2020-05-20 21:57:07,906 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 21:57:08,240 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed6004
+2020-05-20 21:57:08,246 [main] INFO Book Store Testing  - ********* Login with InValid Formate Email and password *************
+2020-05-20 21:57:08,248 [main] INFO Book Store Testing  - Email---nullpassword====null
+2020-05-20 21:57:08,249 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:57:09,989 [main] INFO Book Store Testing  - ********* Login with valid cridential *************
+2020-05-20 21:57:09,990 [main] INFO Book Store Testing  - email and password is setting from properties files
+2020-05-20 21:57:09,990 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-20 21:57:09,992 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:57:12,173 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 21:57:12,312 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 21:57:17,636 [main] INFO Book Store Testing  - test case Passed....
+2020-05-20 21:57:23,365 [main] INFO Book Store Testing  - ********* Login with InValid Email but valid password *************
+2020-05-20 21:57:23,373 [main] INFO Book Store Testing  - Email---jLwoRuDZjSkYhAoHcYcEELzRmVfKYVqHqzykdLJFLBiOAQatmVZDRtIQCcuCYKPtiyyFzhUVnDrDZLvfqnNyHkWuQGiAPoBqgWIWebytbOMxMaMnZKlEtqpjFBxQJiRhdGcgZuQapGhbQaIrRMndSuxfrfyIWbDYJiSHpEfdEdzWSZHcArpGtESEWkjHxKsBxEgTtdnwbBmokaXCSmRqCzyDreTXLNXzOdUDDSfZCGIqxeQAisWlbIyFwLgbogZzuTNWQDeBWBhNmbECHvxoLOsZerSbOXDeqojWqllNQAubYauocZCTOVBOWPkaMTPvqglrwTMlzfcWTJOTxvmvhsWGusUFlwQFOPxkCYtFEpdozSIGYkANbhsRFSVSqHZQOwilORFtMRwedNqjihoCojXNCywAFTZmmkiGlWZkSKbZrVyTCYXKXLpHYWkqUjSHYZCFkUTqOSliASnoQKKipBAeSwEtYAIYXSTwMybpNtWrUfxmoxEo@gmail.compassword====revetYeSPwLc
+2020-05-20 21:57:23,373 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:57:30,037 [main] INFO Book Store Testing  - User email entered jLwoRuDZjSkYhAoHcYcEELzRmVfKYVqHqzykdLJFLBiOAQatmVZDRtIQCcuCYKPtiyyFzhUVnDrDZLvfqnNyHkWuQGiAPoBqgWIWebytbOMxMaMnZKlEtqpjFBxQJiRhdGcgZuQapGhbQaIrRMndSuxfrfyIWbDYJiSHpEfdEdzWSZHcArpGtESEWkjHxKsBxEgTtdnwbBmokaXCSmRqCzyDreTXLNXzOdUDDSfZCGIqxeQAisWlbIyFwLgbogZzuTNWQDeBWBhNmbECHvxoLOsZerSbOXDeqojWqllNQAubYauocZCTOVBOWPkaMTPvqglrwTMlzfcWTJOTxvmvhsWGusUFlwQFOPxkCYtFEpdozSIGYkANbhsRFSVSqHZQOwilORFtMRwedNqjihoCojXNCywAFTZmmkiGlWZkSKbZrVyTCYXKXLpHYWkqUjSHYZCFkUTqOSliASnoQKKipBAeSwEtYAIYXSTwMybpNtWrUfxmoxEo@gmail.com
+2020-05-20 21:57:30,214 [main] INFO Book Store Testing  - User password entered revetYeSPwLc
+2020-05-20 21:57:35,323 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 21:57:35,636 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed9091
+2020-05-20 21:58:13,470 [main] INFO Book Store Testing  - ********* Login with InValid cridential *************
+2020-05-20 21:58:13,509 [main] INFO Book Store Testing  - Email---fmZjsugZvn@gmail.compassword====piqVnMPfE
+2020-05-20 21:58:13,509 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:58:18,080 [main] INFO Book Store Testing  - User email entered fmZjsugZvn@gmail.com
+2020-05-20 21:58:18,425 [main] INFO Book Store Testing  - User password entered piqVnMPfE
+2020-05-20 21:58:23,574 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 21:58:23,932 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed9576
+2020-05-20 21:58:23,984 [main] INFO Book Store Testing  - ********* Login with valid Email But Invalid password *************
+2020-05-20 21:58:23,986 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====LTtYsyfYqGZv
+2020-05-20 21:58:23,986 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:58:26,183 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 21:58:26,374 [main] INFO Book Store Testing  - User password entered LTtYsyfYqGZv
+2020-05-20 21:58:31,572 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 21:58:31,894 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed3649
+2020-05-20 21:58:31,898 [main] INFO Book Store Testing  - ********* Login with InValid Formate Email and password *************
+2020-05-20 21:58:31,900 [main] INFO Book Store Testing  - Email---nullpassword====null
+2020-05-20 21:58:31,902 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:58:33,633 [main] INFO Book Store Testing  - ********* Login with valid cridential *************
+2020-05-20 21:58:33,633 [main] INFO Book Store Testing  - email and password is setting from properties files
+2020-05-20 21:58:33,634 [main] INFO Book Store Testing  - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-20 21:58:33,634 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:58:35,807 [main] INFO Book Store Testing  - User email entered vikashkumargupta5a7@gmail.com
+2020-05-20 21:58:35,973 [main] INFO Book Store Testing  - User password entered vikash1
+2020-05-20 21:58:41,321 [main] INFO Book Store Testing  - test case Passed....
+2020-05-20 21:58:47,014 [main] INFO Book Store Testing  - ********* Login with InValid Email but valid password *************
+2020-05-20 21:58:47,020 [main] INFO Book Store Testing  - Email---FRwxgdyjEFJICHYjldHJtkQxNTnjjfrLmtNGzjuLegCiCeHoNTWxKgMlXnSfclIExzJMdOMqhoevUnBrhhfgybNUimcbVZsCrcvjQQiBqWCKBItzaOwtpWpxXHeCPjMaHPEvBRnQprXnSXKDrFKEEcAUzltqGVssYIeRAZmgJNrOqMErASVBsDouhJGQaJVattHvScFPKiPtXLppkfvjsWiYDnSxPdVVspsiuwqsVTNfOYPyJpOuwKeOlfOOKRnlbxtNhYyXMCJiAMIjrBIpPybsuCgzrVjPqOzedjNjOmxWQyytshlUpqHhPPUjzHpjScEiInCKHGSEZcUpuIymNMcplyxihGhuQJJEHhOdnirDhWOxBaYlgAokKDNQIAyWwUSfNsdnlJjACiGsZLgYkDdfBGKtSpEutcDjvhQBgXEEcocQnXKxQBQbMKDsDuTcMhbtFUZGvVMkTRWxkKgTgkrfGXPKhgnYQlwciDEDpqPQAaTxYxIO@gmail.compassword====RVUBYLrHNpEI
+2020-05-20 21:58:47,021 [main] INFO Book Store Testing  - ********* starting TC_AdminLogin_01 *************
+2020-05-20 21:58:53,290 [main] INFO Book Store Testing  - User email entered FRwxgdyjEFJICHYjldHJtkQxNTnjjfrLmtNGzjuLegCiCeHoNTWxKgMlXnSfclIExzJMdOMqhoevUnBrhhfgybNUimcbVZsCrcvjQQiBqWCKBItzaOwtpWpxXHeCPjMaHPEvBRnQprXnSXKDrFKEEcAUzltqGVssYIeRAZmgJNrOqMErASVBsDouhJGQaJVattHvScFPKiPtXLppkfvjsWiYDnSxPdVVspsiuwqsVTNfOYPyJpOuwKeOlfOOKRnlbxtNhYyXMCJiAMIjrBIpPybsuCgzrVjPqOzedjNjOmxWQyytshlUpqHhPPUjzHpjScEiInCKHGSEZcUpuIymNMcplyxihGhuQJJEHhOdnirDhWOxBaYlgAokKDNQIAyWwUSfNsdnlJjACiGsZLgYkDdfBGKtSpEutcDjvhQBgXEEcocQnXKxQBQbMKDsDuTcMhbtFUZGvVMkTRWxkKgTgkrfGXPKhgnYQlwciDEDpqPQAaTxYxIO@gmail.com
+2020-05-20 21:58:53,466 [main] INFO Book Store Testing  - User password entered RVUBYLrHNpEI
+2020-05-20 21:58:58,575 [main] INFO Book Store Testing  - test case failed....
+2020-05-20 21:58:58,885 [main] INFO Book Store Testing  - Capture Screen sort name isRegistraionFailed9346

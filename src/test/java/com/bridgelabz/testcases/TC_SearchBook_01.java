@@ -9,6 +9,4 @@ public class TC_SearchBook_01 extends BaseClass {
 		driver.get(baseURL);
 		logger.info("User Opened: ");
 	}
-	
-
 }
