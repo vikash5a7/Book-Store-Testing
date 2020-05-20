@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17604" started-at="2020-05-20T06:47:40Z" finished-at="2020-05-20T06:47:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17604" started-at="2020-05-20T06:47:40Z" finished-at="2020-05-20T06:47:57Z">
+      <class name="com.bridgelabz.testcases.TC_SearchBook_01">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.bridgelabz.testcases.TC_SearchBook_01@5700d6b1]" name="setup" is-config="true" duration-ms="10397" started-at="2020-05-20T06:47:40Z" finished-at="2020-05-20T06:47:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchBook()[pri:0, instance:com.bridgelabz.testcases.TC_SearchBook_01@5700d6b1]" name="searchBook" duration-ms="5030" started-at="2020-05-20T06:47:50Z" finished-at="2020-05-20T06:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.testcases.TC_SearchBook_01@5700d6b1]" name="tearDown" is-config="true" duration-ms="2144" started-at="2020-05-20T06:47:55Z" finished-at="2020-05-20T06:47:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bridgelabz.testcases.TC_SearchBook_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
