@@ -41,7 +41,7 @@ public class BaseClass {
 		password = readConfig.getPassword();
 		System.out.println("Email is " + username + " password is " +  password);
 		
-		logger = Logger.getLogger("Fundoo Notes");
+		logger = Logger.getLogger("Book Store Testing ");
 		PropertyConfigurator.configure("Log4j.properties");
 		if(br.equals("chrome"))
 		{
