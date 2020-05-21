@@ -19,6 +19,8 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import com.bridgelabz.pageObjects.AdminLoginPage;
+import com.bridgelabz.pageObjects.AminDashboardPage;
 import com.bridgelabz.utitlities.ReadConfig;
 
 
@@ -30,13 +32,12 @@ public class BaseClass {
 	public String baseURL = readConfig.getApplicationURL();
 	public String username;
 	public String password;
-	public static WebDriver driver;
-	
+	public static WebDriver driver;	
 	public static Logger logger;
 	
 	@Parameters("browser")
 	@BeforeClass
-	public void setup(String br) {
+	public void setup(String br) throws InterruptedException {
 		username = readConfig.getEmail();
 		password = readConfig.getPassword();
 		System.out.println("Email is " + username + " password is " +  password);

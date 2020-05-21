@@ -138,3 +138,432 @@
 2020-05-20 21:58:53,466 - Book Store Testing  -INFO - User password entered RVUBYLrHNpEI
 2020-05-20 21:58:58,575 - Book Store Testing  -INFO - test case failed....
 2020-05-20 21:58:58,885 - Book Store Testing  -INFO - Capture Screen sort name isRegistraionFailed9346
+2020-05-21 13:19:45,151 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:19:45,247 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:20:33,333 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:20:33,338 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:22:17,817 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:22:17,822 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:25:19,120 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:25:19,127 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:26:02,044 - Book Store Testing  -INFO - ********* Login with InValid cridential *************
+2020-05-21 13:26:02,067 - Book Store Testing  -INFO - Email---MPIpsHbrwR@gmail.compassword====eaIurxUYI
+2020-05-21 13:26:02,067 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:26:07,152 - Book Store Testing  -INFO - User email entered MPIpsHbrwR@gmail.com
+2020-05-21 13:26:07,516 - Book Store Testing  -INFO - User password entered eaIurxUYI
+2020-05-21 13:26:12,742 - Book Store Testing  -INFO - test case failed....
+2020-05-21 13:26:13,209 - Book Store Testing  -INFO - Capture Screen sort name isloginFailed3259
+2020-05-21 13:26:13,325 - Book Store Testing  -INFO - ********* Login with valid Email But Invalid password *************
+2020-05-21 13:26:13,327 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====JGQHHlMhycJF
+2020-05-21 13:26:13,327 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:27:13,384 - Book Store Testing  -INFO - ********* Login with InValid cridential *************
+2020-05-21 13:27:13,395 - Book Store Testing  -INFO - Email---ugovGPRRgO@gmail.compassword====eSqZcaTYz
+2020-05-21 13:27:13,395 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:27:17,582 - Book Store Testing  -INFO - ********* Login with valid Email But Invalid password *************
+2020-05-21 13:27:17,583 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====PuZQRFuhCDRR
+2020-05-21 13:27:17,583 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:27:19,873 - Book Store Testing  -INFO - ********* Login with InValid Formate Email and password *************
+2020-05-21 13:27:19,874 - Book Store Testing  -INFO - Email---nullpassword====null
+2020-05-21 13:27:19,874 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:27:23,060 - Book Store Testing  -INFO - ********* Login with valid cridential *************
+2020-05-21 13:27:23,060 - Book Store Testing  -INFO - email and password is setting from properties files
+2020-05-21 13:27:23,061 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:27:23,061 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:27:23,311 - Book Store Testing  -INFO - ********* Login with InValid Email but valid password *************
+2020-05-21 13:27:23,312 - Book Store Testing  -INFO - Email---AoHfGXhcvGYBTwmvcfjJrEgROAspsgzKsslWiYtxwcFJgCziCETrFICjkvghUTSIgdTdawewCIJcNggRmshJLJVtDBsjKOjQmZJBraPEGCJnbCgTWehvUyzWwKuZcpXmaXdqzRMtxVJZqsVmIvReuvomfZyDxtaKmpKeMfHzduKpCEaRXSKHYJQWJXiSABrSSbAveilJQWPcVHoOnolGwhlzuvFjpcCpVJBtuPUbqhNwkkdCKTORVLQdbsmWluLOqTzCKTDYHgGvrtDtLjzlmejACHtrLYRjsXJZOefydRBzknSyQBMKtauAkzUcaZDLLZwpNaSoNBCZudjkXNZiLbPjGPwjhlphNQFToPmJWCPAFyRtCsNVsfHOFGKdBeluSSPJMMddzwIcbInUxSJNzSfgDhQSpwnxzrZojScxMBquuMWySPUuCbxxBxaPPuAzMjeECGIwaruWkCMGhVCdXYqKYBpOgFnhSWzpjduxsdwqZpjqgXPg@gmail.compassword====SovIdNAZsddA
+2020-05-21 13:27:23,314 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:31:18,938 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:31:18,942 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:33:24,489 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:33:24,494 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:33:35,740 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 13:33:35,999 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 13:33:41,331 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 13:33:43,335 - Book Store Testing  -INFO - ********* Adding book details *************
+2020-05-21 13:33:43,565 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 13:33:44,499 - Book Store Testing  -INFO - Set book name 
+2020-05-21 13:33:45,705 - Book Store Testing  -INFO - Set Author name 
+2020-05-21 13:38:34,860 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:38:34,866 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:38:40,400 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 13:38:40,685 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 13:38:46,029 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 13:38:48,033 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 13:38:48,320 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 13:38:49,370 - Book Store Testing  -INFO - Set book name UvBdqegggcdVtrwsfotSKXIQiOTRGz
+2020-05-21 13:38:49,971 - Book Store Testing  -INFO - Set Author name dNJxIoTMdWlSIhQtLB
+2020-05-21 13:38:50,334 - Book Store Testing  -INFO - Set Book Price 50233
+2020-05-21 13:38:50,518 - Book Store Testing  -INFO - Set Number of books9
+2020-05-21 13:38:51,782 - Book Store Testing  -INFO - Set Book Details ILcpjqwIOshcXgOrNGbHIoNdLflhhcFKSdB
+2020-05-21 13:42:17,726 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:42:17,732 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:42:25,880 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 13:42:26,172 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 13:42:32,184 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 13:42:34,194 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 13:42:34,590 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 13:42:36,379 - Book Store Testing  -INFO - Set book name mOABSMbKfAcYQOHjVQJuloyHOuEYSX
+2020-05-21 13:42:37,285 - Book Store Testing  -INFO - Set Author name EAPTXBtjuYbzXERZKE
+2020-05-21 13:42:37,623 - Book Store Testing  -INFO - Set Book Price 16051
+2020-05-21 13:42:37,743 - Book Store Testing  -INFO - Set Number of books1
+2020-05-21 13:42:38,445 - Book Store Testing  -INFO - Set Book Details PnaTcuJdVAEQBtLwLqaFEgCjGYCfhylvyyl
+2020-05-21 13:42:38,680 - Book Store Testing  -INFO - Set Book code ORTBNc
+2020-05-21 13:57:53,802 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:57:53,810 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:58:00,803 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 13:58:01,037 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 13:58:06,328 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 13:58:08,331 - Book Store Testing  -INFO - ********* starting Book adding *************1
+2020-05-21 13:58:08,333 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 13:58:08,663 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 13:58:10,217 - Book Store Testing  -INFO - Set book name tPoZOTxnHudrLeZOdKUoqmIygCSvTZSA
+2020-05-21 13:58:10,922 - Book Store Testing  -INFO - Set Author name EgwhRMxmaooIvFPsQf
+2020-05-21 13:58:11,302 - Book Store Testing  -INFO - Set Book Price 28180
+2020-05-21 13:58:11,461 - Book Store Testing  -INFO - Set Number of books8
+2020-05-21 13:58:12,490 - Book Store Testing  -INFO - Set Book Details fkYSbePgxQxWmqwOpXDLJfqVYsMsSurvzZP
+2020-05-21 13:58:12,862 - Book Store Testing  -INFO - Set Book code WIvOUP
+2020-05-21 13:58:13,319 - Book Store Testing  -INFO - Something went Wrong 1
+2020-05-21 13:59:09,316 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 13:59:09,320 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 13:59:13,865 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 13:59:14,054 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 13:59:19,262 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 13:59:21,266 - Book Store Testing  -INFO - ********* starting Book adding *************1
+2020-05-21 13:59:21,269 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 13:59:21,448 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 13:59:22,747 - Book Store Testing  -INFO - Set book name SsQSpoMiDHwPidawgOPqaCjpFNiYHnfi
+2020-05-21 13:59:23,283 - Book Store Testing  -INFO - Set Author name VDENrvNBeldrDiSOwB
+2020-05-21 13:59:23,550 - Book Store Testing  -INFO - Set Book Price 94403
+2020-05-21 13:59:23,664 - Book Store Testing  -INFO - Set Number of books5
+2020-05-21 13:59:24,268 - Book Store Testing  -INFO - Set Book Details CLgdWpCDRGWAcuAjSvRtAYNFaMDPcmtCRpZ
+2020-05-21 13:59:24,517 - Book Store Testing  -INFO - Set Book code qfBhMs
+2020-05-21 13:59:25,169 - Book Store Testing  -INFO - Something went Wrong 1
+2020-05-21 14:07:06,699 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 14:07:06,704 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 14:07:10,879 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 14:07:11,089 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 14:07:16,566 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 14:07:18,571 - Book Store Testing  -INFO - ********* starting Book adding *************1
+2020-05-21 14:07:18,578 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:07:18,776 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:07:19,460 - Book Store Testing  -INFO - Set book name QnuAoAUDysrUfKTbfUbiZSMaQuWHDwzj
+2020-05-21 14:07:19,860 - Book Store Testing  -INFO - Set Author name FHIeXcymjdavhCLcYA
+2020-05-21 14:07:20,087 - Book Store Testing  -INFO - Set Book Price 38386
+2020-05-21 14:07:20,215 - Book Store Testing  -INFO - Set Number of books8
+2020-05-21 14:07:20,667 - Book Store Testing  -INFO - Set Book Details wjXVemrTOopSaKkHLtWhUWALvYgNmnkaXgh
+2020-05-21 14:07:20,848 - Book Store Testing  -INFO - Set Book code XoCegM
+2020-05-21 14:07:23,181 - Book Store Testing  -INFO - ********* Book Added SuccesFully *************1
+2020-05-21 14:07:23,183 - Book Store Testing  -INFO - ********* starting Book adding *************2
+2020-05-21 14:07:23,186 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:07:23,279 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:07:24,654 - Book Store Testing  -INFO - Set book name BPFGQYfayjFNjHIayllWCMSQWEOpdcrq
+2020-05-21 14:07:25,073 - Book Store Testing  -INFO - Set Author name SetWiBULIGdXTiIyFM
+2020-05-21 14:07:25,238 - Book Store Testing  -INFO - Set Book Price 37412
+2020-05-21 14:07:25,356 - Book Store Testing  -INFO - Set Number of books2
+2020-05-21 14:07:25,841 - Book Store Testing  -INFO - Set Book Details fHXvbFzaSVdHtXVziKFfljkRtXlszmjdTeS
+2020-05-21 14:07:25,989 - Book Store Testing  -INFO - Set Book code pIzNCh
+2020-05-21 14:07:28,269 - Book Store Testing  -INFO - ********* Book Added SuccesFully *************2
+2020-05-21 14:07:28,270 - Book Store Testing  -INFO - ********* starting Book adding *************3
+2020-05-21 14:07:28,270 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:07:28,361 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:07:29,033 - Book Store Testing  -INFO - Set book name iJbDdyZSwXFCLhLYJdYHTVEJKgxiRhPn
+2020-05-21 14:07:29,302 - Book Store Testing  -INFO - Set Author name LpJiYWrWGCVlDcOfhb
+2020-05-21 14:07:29,560 - Book Store Testing  -INFO - Set Book Price 47467
+2020-05-21 14:07:29,766 - Book Store Testing  -INFO - Set Number of books0
+2020-05-21 14:07:30,700 - Book Store Testing  -INFO - Set Book Details lzCVvrcVAXICcJltZbpnYNxEYGoVjwhtqXB
+2020-05-21 14:07:30,954 - Book Store Testing  -INFO - Set Book code HCNArw
+2020-05-21 14:07:33,200 - Book Store Testing  -INFO - ********* Book Added SuccesFully *************3
+2020-05-21 14:07:33,200 - Book Store Testing  -INFO - ********* starting Book adding *************4
+2020-05-21 14:07:33,201 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:07:33,356 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:07:34,050 - Book Store Testing  -INFO - Set book name JGelahAaeDOEafTyxPlxUMBCyvIMRuHQ
+2020-05-21 14:07:34,322 - Book Store Testing  -INFO - Set Author name sItcmgeuiFIwrcoNJj
+2020-05-21 14:07:34,506 - Book Store Testing  -INFO - Set Book Price 30863
+2020-05-21 14:07:34,625 - Book Store Testing  -INFO - Set Number of books2
+2020-05-21 14:07:35,086 - Book Store Testing  -INFO - Set Book Details rjHjHXkjQndKymMtSyrVIpIPJDMpyTVnMXo
+2020-05-21 14:07:35,439 - Book Store Testing  -INFO - Set Book code slyHbp
+2020-05-21 14:10:20,267 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 14:10:20,274 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 14:10:23,860 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 14:10:24,000 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 14:10:29,205 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 14:10:31,209 - Book Store Testing  -INFO - ********* starting Book adding *************1
+2020-05-21 14:10:31,211 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:10:31,444 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:10:31,844 - Book Store Testing  -INFO - Set book name HjHSmAwyFbSt
+2020-05-21 14:10:32,343 - Book Store Testing  -INFO - Set Author name ZHrxXjvfRPpkCtyEwK
+2020-05-21 14:10:32,711 - Book Store Testing  -INFO - Set Book Price 73430
+2020-05-21 14:10:32,834 - Book Store Testing  -INFO - Set Number of books8
+2020-05-21 14:10:33,581 - Book Store Testing  -INFO - Set Book Details RumfaKyQhSNYDxEypgXFeDjJAAeVNtKCHIa
+2020-05-21 14:10:33,768 - Book Store Testing  -INFO - Set Book code hcJZae
+2020-05-21 14:10:36,113 - Book Store Testing  -INFO - ********* Book Added SuccesFully *************1
+2020-05-21 14:10:36,115 - Book Store Testing  -INFO - ********* starting Book adding *************2
+2020-05-21 14:10:36,118 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:10:36,239 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:10:36,700 - Book Store Testing  -INFO - Set book name XUGBLQlfaaNi
+2020-05-21 14:10:37,177 - Book Store Testing  -INFO - Set Author name kXfzVacePAmLRSuLyw
+2020-05-21 14:10:37,411 - Book Store Testing  -INFO - Set Book Price 59700
+2020-05-21 14:10:37,588 - Book Store Testing  -INFO - Set Number of books5
+2020-05-21 14:10:38,098 - Book Store Testing  -INFO - Set Book Details dKMGZzGToCFevBYsWPIotbjQYdfaHkLpnwq
+2020-05-21 14:10:38,272 - Book Store Testing  -INFO - Set Book code FQfbQV
+2020-05-21 14:12:47,479 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 14:12:47,484 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 14:12:52,487 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 14:12:52,658 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 14:12:57,945 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 14:12:59,952 - Book Store Testing  -INFO - ********* starting Book adding *************1
+2020-05-21 14:12:59,960 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:13:00,158 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:13:00,567 - Book Store Testing  -INFO - Set book name DfIrppGWgTdL
+2020-05-21 14:13:00,977 - Book Store Testing  -INFO - Set Author name aetukKYjKWLjkCELkh
+2020-05-21 14:13:01,345 - Book Store Testing  -INFO - Set Book Price 38163
+2020-05-21 14:13:01,469 - Book Store Testing  -INFO - Set Number of books2
+2020-05-21 14:13:01,995 - Book Store Testing  -INFO - Set Book Details XpruKyqUcZTaODQvmJPmgOUAVshZkWVoTzJ
+2020-05-21 14:13:02,361 - Book Store Testing  -INFO - Set Book code Wudlek
+2020-05-21 14:13:04,681 - Book Store Testing  -INFO - Something went Wrong at book number 1
+2020-05-21 14:14:24,290 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 14:14:24,295 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 14:14:27,801 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 14:14:27,943 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 14:14:33,228 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 14:14:40,231 - Book Store Testing  -INFO - ********* starting Book adding *************1
+2020-05-21 14:14:40,239 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:14:40,540 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:14:41,123 - Book Store Testing  -INFO - Set book name YFRUMJtRTbGH
+2020-05-21 14:14:41,599 - Book Store Testing  -INFO - Set Author name heOaINZBxndhiaXVau
+2020-05-21 14:14:41,931 - Book Store Testing  -INFO - Set Book Price 17823
+2020-05-21 14:14:42,037 - Book Store Testing  -INFO - Set Number of books4
+2020-05-21 14:14:42,549 - Book Store Testing  -INFO - Set Book Details GPgpNmYLTaarSWYxZIPMdHgKhQVlxfZsgts
+2020-05-21 14:14:42,722 - Book Store Testing  -INFO - Set Book code JTPTdI
+2020-05-21 14:14:45,525 - Book Store Testing  -INFO - Something went Wrong at book number 1
+2020-05-21 14:21:20,749 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 14:21:20,841 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:21:21,082 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 14:21:21,083 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 14:21:28,032 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 14:21:28,457 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 14:21:34,189 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 14:21:36,193 - Book Store Testing  -INFO - Adding book Number -> 1
+2020-05-21 14:21:41,198 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 14:21:41,209 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 14:21:41,610 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 14:21:42,631 - Book Store Testing  -INFO - Set book name WJMukwJGAGPU
+2020-05-21 14:21:44,069 - Book Store Testing  -INFO - Set Author name ILZABiBxyHQmdITeSI
+2020-05-21 14:21:44,670 - Book Store Testing  -INFO - Set Book Price 95298
+2020-05-21 14:21:44,872 - Book Store Testing  -INFO - Set Number of books2
+2020-05-21 14:21:45,873 - Book Store Testing  -INFO - Set Book Details pmTyOwITNTRtSjvYjCyBDzVTecbOBALYnJS
+2020-05-21 14:21:46,212 - Book Store Testing  -INFO - Set Book code eGMFBa
+2020-05-21 14:21:48,693 - Book Store Testing  -INFO - ********* Something went Wrongs *************
+2020-05-21 15:13:51,941 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:13:52,006 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:13:52,076 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 15:13:52,077 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 15:13:55,935 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 15:13:56,072 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 15:14:01,283 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 15:14:03,286 - Book Store Testing  -INFO - Adding book Number -> 1
+2020-05-21 15:14:08,286 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:14:08,291 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:14:08,499 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:14:08,892 - Book Store Testing  -INFO - Set book name vBNgfCxpNTdZ
+2020-05-21 15:14:09,307 - Book Store Testing  -INFO - Set Author name ShaqibZHJSaJMluBIe
+2020-05-21 15:14:09,730 - Book Store Testing  -INFO - Set Book Price 92994
+2020-05-21 15:14:09,921 - Book Store Testing  -INFO - Set Number of books5
+2020-05-21 15:14:10,676 - Book Store Testing  -INFO - Set Book Details krpHDkekPOAYmpjRSkyjFLjpHkrhKJKguaf
+2020-05-21 15:14:10,899 - Book Store Testing  -INFO - Set Book code QaBYlT
+2020-05-21 15:14:13,199 - Book Store Testing  -INFO - ********* Something went Wrongs *************
+2020-05-21 15:17:34,724 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:17:34,757 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:17:34,831 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 15:17:34,831 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 15:17:38,281 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 15:17:38,429 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 15:17:41,640 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 15:17:43,642 - Book Store Testing  -INFO - Adding book Number -> 1
+2020-05-21 15:17:43,642 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:17:43,643 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:17:43,886 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:17:44,395 - Book Store Testing  -INFO - Set book name sxtoVGzfymLP
+2020-05-21 15:17:44,957 - Book Store Testing  -INFO - Set Author name jRGDQIVHyGWsVRvOmZ
+2020-05-21 15:17:45,420 - Book Store Testing  -INFO - Set Book Price 06462
+2020-05-21 15:17:45,618 - Book Store Testing  -INFO - Set Number of books6
+2020-05-21 15:17:46,400 - Book Store Testing  -INFO - Set Book Details oRsJmpvAUMKVGELfEFVkSzXWFDADfzxdFbz
+2020-05-21 15:17:46,587 - Book Store Testing  -INFO - Set Book code OmWGqs
+2020-05-21 15:17:49,925 - Book Store Testing  -INFO - Adding book Number -> 2
+2020-05-21 15:17:49,926 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:17:49,927 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:17:50,025 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:17:50,373 - Book Store Testing  -INFO - Set book name PHkSeQPBhIar
+2020-05-21 15:17:50,723 - Book Store Testing  -INFO - Set Author name DtNwOzAigRvqZMcUIc
+2020-05-21 15:17:50,979 - Book Store Testing  -INFO - Set Book Price 20358
+2020-05-21 15:17:51,219 - Book Store Testing  -INFO - Set Number of books1
+2020-05-21 15:17:52,026 - Book Store Testing  -INFO - Set Book Details NpqHsEZzAbesbvVJqKKMNKkkgYBeeaHTyzt
+2020-05-21 15:17:52,171 - Book Store Testing  -INFO - Set Book code RIonVY
+2020-05-21 15:17:55,520 - Book Store Testing  -INFO - Adding book Number -> 3
+2020-05-21 15:17:55,521 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:17:55,522 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:17:55,600 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:17:55,905 - Book Store Testing  -INFO - Set book name XCPiloHNcLGu
+2020-05-21 15:17:56,204 - Book Store Testing  -INFO - Set Author name YwDdSqYFyEBlAtozMW
+2020-05-21 15:17:56,403 - Book Store Testing  -INFO - Set Book Price 57072
+2020-05-21 15:17:56,527 - Book Store Testing  -INFO - Set Number of books1
+2020-05-21 15:17:57,082 - Book Store Testing  -INFO - Set Book Details bBayqeNaBDzDxswOXzfjwcCQBsajQGjYLAV
+2020-05-21 15:17:57,427 - Book Store Testing  -INFO - Set Book code grYDbq
+2020-05-21 15:18:00,777 - Book Store Testing  -INFO - Adding book Number -> 4
+2020-05-21 15:18:00,777 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:18:00,778 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:18:00,856 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:18:01,166 - Book Store Testing  -INFO - Set book name rNUVSbuBVreA
+2020-05-21 15:18:01,474 - Book Store Testing  -INFO - Set Author name dQUJXmqcfinBGtjQkE
+2020-05-21 15:18:01,653 - Book Store Testing  -INFO - Set Book Price 22501
+2020-05-21 15:18:01,755 - Book Store Testing  -INFO - Set Number of books7
+2020-05-21 15:18:02,244 - Book Store Testing  -INFO - Set Book Details pisPTROBoNcldBFckmCNKZxDwtBQqigtJUc
+2020-05-21 15:18:02,404 - Book Store Testing  -INFO - Set Book code tKEWTF
+2020-05-21 15:18:05,689 - Book Store Testing  -INFO - ********* Adding book over *************
+2020-05-21 15:23:46,404 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:23:46,442 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:23:46,532 - Book Store Testing  -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-21 15:23:46,532 - Book Store Testing  -INFO - ********* starting TC_AdminLogin_01 *************
+2020-05-21 15:23:51,766 - Book Store Testing  -INFO - User email entered vikashkumargupta5a7@gmail.com
+2020-05-21 15:23:51,948 - Book Store Testing  -INFO - User password entered vikash1
+2020-05-21 15:23:55,289 - Book Store Testing  -INFO - test case Passed....
+2020-05-21 15:23:57,291 - Book Store Testing  -INFO - Adding book Number -> 1
+2020-05-21 15:23:57,293 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:23:57,297 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:23:57,511 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:23:57,876 - Book Store Testing  -INFO - Set book name OHkNhDwoIxEy
+2020-05-21 15:23:58,343 - Book Store Testing  -INFO - Set Author name dTVCVKEpIgLZbPjnJc
+2020-05-21 15:23:58,753 - Book Store Testing  -INFO - Set Book Price 72523
+2020-05-21 15:23:58,964 - Book Store Testing  -INFO - Set Number of books6
+2020-05-21 15:23:59,716 - Book Store Testing  -INFO - Set Book Details IRtGfUIvABDHbhnWwhyoJGdlzhgvQkrEhps
+2020-05-21 15:23:59,879 - Book Store Testing  -INFO - Set Book code bQjlvc
+2020-05-21 15:24:03,205 - Book Store Testing  -INFO - Adding book Number -> 2
+2020-05-21 15:24:03,206 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:03,206 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:03,288 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:03,629 - Book Store Testing  -INFO - Set book name JiyvXqKGZfOP
+2020-05-21 15:24:03,971 - Book Store Testing  -INFO - Set Author name lUUxrtKcMvApxgfilQ
+2020-05-21 15:24:04,244 - Book Store Testing  -INFO - Set Book Price 06472
+2020-05-21 15:24:04,403 - Book Store Testing  -INFO - Set Number of books6
+2020-05-21 15:24:05,337 - Book Store Testing  -INFO - Set Book Details ISaxPJqczPzeIwILtvnizsOqcmlvdFXHAcx
+2020-05-21 15:24:05,555 - Book Store Testing  -INFO - Set Book code imwAZP
+2020-05-21 15:24:08,868 - Book Store Testing  -INFO - Adding book Number -> 3
+2020-05-21 15:24:08,869 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:08,871 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:08,958 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:09,269 - Book Store Testing  -INFO - Set book name wzfRZDUDSrsA
+2020-05-21 15:24:09,569 - Book Store Testing  -INFO - Set Author name NCjbbuRuzYdBueOfZZ
+2020-05-21 15:24:09,769 - Book Store Testing  -INFO - Set Book Price 29580
+2020-05-21 15:24:09,885 - Book Store Testing  -INFO - Set Number of books2
+2020-05-21 15:24:10,371 - Book Store Testing  -INFO - Set Book Details EnuJfvLJpgrSBZBSTRsMicNSrZsiOmNVkmT
+2020-05-21 15:24:10,638 - Book Store Testing  -INFO - Set Book code fPejaV
+2020-05-21 15:24:13,992 - Book Store Testing  -INFO - Adding book Number -> 4
+2020-05-21 15:24:13,993 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:13,993 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:14,075 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:14,399 - Book Store Testing  -INFO - Set book name miaitCKXnXSc
+2020-05-21 15:24:14,709 - Book Store Testing  -INFO - Set Author name zypvtFptDTWZISVXmm
+2020-05-21 15:24:14,902 - Book Store Testing  -INFO - Set Book Price 07539
+2020-05-21 15:24:15,016 - Book Store Testing  -INFO - Set Number of books9
+2020-05-21 15:24:15,513 - Book Store Testing  -INFO - Set Book Details HuzwiCPyJtXvbqCftUmLKwidNLMasmaShKU
+2020-05-21 15:24:15,663 - Book Store Testing  -INFO - Set Book code lOwkdA
+2020-05-21 15:24:19,018 - Book Store Testing  -INFO - Adding book Number -> 5
+2020-05-21 15:24:19,018 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:19,019 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:19,118 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:19,473 - Book Store Testing  -INFO - Set book name nDdsELEMpFSV
+2020-05-21 15:24:19,765 - Book Store Testing  -INFO - Set Author name KBFsLzQhmyKvyxwyJv
+2020-05-21 15:24:20,032 - Book Store Testing  -INFO - Set Book Price 50098
+2020-05-21 15:24:20,151 - Book Store Testing  -INFO - Set Number of books2
+2020-05-21 15:24:20,627 - Book Store Testing  -INFO - Set Book Details zQDsWOJTzVHYIsqTxhoarSWzHYUKCHvSXAw
+2020-05-21 15:24:20,774 - Book Store Testing  -INFO - Set Book code tnhLsm
+2020-05-21 15:24:24,068 - Book Store Testing  -INFO - Adding book Number -> 6
+2020-05-21 15:24:24,069 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:24,069 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:24,162 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:24,467 - Book Store Testing  -INFO - Set book name CnjZkXmxetZQ
+2020-05-21 15:24:24,766 - Book Store Testing  -INFO - Set Author name umyFyAEKBOQGPmvCmm
+2020-05-21 15:24:24,967 - Book Store Testing  -INFO - Set Book Price 76547
+2020-05-21 15:24:25,085 - Book Store Testing  -INFO - Set Number of books3
+2020-05-21 15:24:25,568 - Book Store Testing  -INFO - Set Book Details xQJFyBKDPPuBgIAPHzTmeIhpqzVfswygUgv
+2020-05-21 15:24:25,748 - Book Store Testing  -INFO - Set Book code YcTaIF
+2020-05-21 15:24:29,051 - Book Store Testing  -INFO - Adding book Number -> 7
+2020-05-21 15:24:29,051 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:29,052 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:29,129 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:29,429 - Book Store Testing  -INFO - Set book name MJpTGiizkdxs
+2020-05-21 15:24:29,723 - Book Store Testing  -INFO - Set Author name zQwqHSQCdvCzGepkDE
+2020-05-21 15:24:29,880 - Book Store Testing  -INFO - Set Book Price 67581
+2020-05-21 15:24:29,979 - Book Store Testing  -INFO - Set Number of books1
+2020-05-21 15:24:30,400 - Book Store Testing  -INFO - Set Book Details bnRBJNIkcVmiHpwPdAYokiKatfozlEpowFZ
+2020-05-21 15:24:30,591 - Book Store Testing  -INFO - Set Book code GoUYxd
+2020-05-21 15:24:33,902 - Book Store Testing  -INFO - Adding book Number -> 8
+2020-05-21 15:24:33,902 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:33,903 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:33,985 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:34,283 - Book Store Testing  -INFO - Set book name ZqPvkPDuQPmz
+2020-05-21 15:24:34,572 - Book Store Testing  -INFO - Set Author name MvpcIVQLwHkAmMvczW
+2020-05-21 15:24:34,754 - Book Store Testing  -INFO - Set Book Price 01642
+2020-05-21 15:24:34,850 - Book Store Testing  -INFO - Set Number of books7
+2020-05-21 15:24:35,337 - Book Store Testing  -INFO - Set Book Details sNmXTYFcNyhnpGdEAHptxoSKAZAxtTQJQcC
+2020-05-21 15:24:35,486 - Book Store Testing  -INFO - Set Book code RmzwuI
+2020-05-21 15:24:38,751 - Book Store Testing  -INFO - Adding book Number -> 9
+2020-05-21 15:24:38,751 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:38,752 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:38,867 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:39,166 - Book Store Testing  -INFO - Set book name EPraapUbfWyk
+2020-05-21 15:24:39,493 - Book Store Testing  -INFO - Set Author name VgVhBZvpyXCxUgeJAu
+2020-05-21 15:24:39,657 - Book Store Testing  -INFO - Set Book Price 75943
+2020-05-21 15:24:39,759 - Book Store Testing  -INFO - Set Number of books1
+2020-05-21 15:24:40,258 - Book Store Testing  -INFO - Set Book Details vIDuScOMBAZFvQVemcArkBdOjyBrBICIhjf
+2020-05-21 15:24:40,437 - Book Store Testing  -INFO - Set Book code BTiJcv
+2020-05-21 15:24:43,699 - Book Store Testing  -INFO - Adding book Number -> 10
+2020-05-21 15:24:43,700 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:43,701 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:43,811 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:44,268 - Book Store Testing  -INFO - Set book name UaitMspQxpiN
+2020-05-21 15:24:44,778 - Book Store Testing  -INFO - Set Author name SbAlvSYLsUYIybSyNN
+2020-05-21 15:24:44,975 - Book Store Testing  -INFO - Set Book Price 73872
+2020-05-21 15:24:45,114 - Book Store Testing  -INFO - Set Number of books3
+2020-05-21 15:24:45,546 - Book Store Testing  -INFO - Set Book Details ceTzwrUPgMxZyKkBXFzDxvCiDUIfPPKYuTV
+2020-05-21 15:24:45,709 - Book Store Testing  -INFO - Set Book code CJsNpq
+2020-05-21 15:24:49,067 - Book Store Testing  -INFO - Adding book Number -> 11
+2020-05-21 15:24:49,067 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:49,068 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:49,143 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:49,453 - Book Store Testing  -INFO - Set book name AmNTrKOJWQRw
+2020-05-21 15:24:49,969 - Book Store Testing  -INFO - Set Author name gnMivnFrPMdPwNjfOn
+2020-05-21 15:24:50,244 - Book Store Testing  -INFO - Set Book Price 65499
+2020-05-21 15:24:50,514 - Book Store Testing  -INFO - Set Number of books8
+2020-05-21 15:24:51,021 - Book Store Testing  -INFO - Set Book Details nxvUFKlUUDpQDXMMAUlpcKWoxTjanEBrqDc
+2020-05-21 15:24:51,165 - Book Store Testing  -INFO - Set Book code OhBDyr
+2020-05-21 15:24:54,420 - Book Store Testing  -INFO - Adding book Number -> 12
+2020-05-21 15:24:54,420 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:54,421 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:54,494 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:24:54,777 - Book Store Testing  -INFO - Set book name rjFAvPAXdVog
+2020-05-21 15:24:55,089 - Book Store Testing  -INFO - Set Author name HlpAURtkfiPYVgBzgU
+2020-05-21 15:24:55,257 - Book Store Testing  -INFO - Set Book Price 94032
+2020-05-21 15:24:55,366 - Book Store Testing  -INFO - Set Number of books9
+2020-05-21 15:24:56,158 - Book Store Testing  -INFO - Set Book Details WjApeDGmMKExHLbMQRvdrlewjGuAYzsQelV
+2020-05-21 15:24:56,389 - Book Store Testing  -INFO - Set Book code KQAsTA
+2020-05-21 15:24:59,669 - Book Store Testing  -INFO - Adding book Number -> 13
+2020-05-21 15:24:59,669 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:24:59,670 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:24:59,757 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:25:00,065 - Book Store Testing  -INFO - Set book name kqcMXujvzaRM
+2020-05-21 15:25:00,488 - Book Store Testing  -INFO - Set Author name LMgMgxuffRCNiyahbb
+2020-05-21 15:25:00,672 - Book Store Testing  -INFO - Set Book Price 75449
+2020-05-21 15:25:00,868 - Book Store Testing  -INFO - Set Number of books5
+2020-05-21 15:25:01,861 - Book Store Testing  -INFO - Set Book Details MQoAvPlSldHDNJJjUEDQIQGrxJuLaYyUAvX
+2020-05-21 15:25:02,137 - Book Store Testing  -INFO - Set Book code KrdZjy
+2020-05-21 15:25:05,422 - Book Store Testing  -INFO - Adding book Number -> 14
+2020-05-21 15:25:05,423 - Book Store Testing  -INFO - ********* starting Book adding *************
+2020-05-21 15:25:05,423 - Book Store Testing  -INFO - ---------------- Adding book details-----------------
+2020-05-21 15:25:05,497 - Book Store Testing  -INFO - ********* Click on add book button *************
+2020-05-21 15:25:05,796 - Book Store Testing  -INFO - Set book name gWizMBBKIXxe
+2020-05-21 15:25:06,118 - Book Store Testing  -INFO - Set Author name UcnvFaNUfYRQjHqvQZ
+2020-05-21 15:25:06,361 - Book Store Testing  -INFO - Set Book Price 32451
+2020-05-21 15:25:06,478 - Book Store Testing  -INFO - Set Number of books0
+2020-05-21 15:25:06,931 - Book Store Testing  -INFO - Set Book Details KMYkDbLpyUPefWhAsbDeoePbtgGBDseSEog
+2020-05-21 15:25:07,194 - Book Store Testing  -INFO - Set Book code OqzUsm

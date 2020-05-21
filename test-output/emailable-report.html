@@ -9,30 +9,57 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">Suite</th></tr>
-<tr><td><a href="#t0">Test</a></td><td class="num">1</td><td class="num">0</td><td class="num attn">4</td><td class="num">53,061</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">90,308</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="4">com.bridgelabz.testcases.TC_AdminLogin_01</td><td><a href="#m0">validatetingWithInValidCridential</a></td><td rowspan="1">1589992093463</td><td rowspan="1">10473</td></tr><tr class="failedeven"><td><a href="#m1">validatetingWithInValidEmail</a></td><td rowspan="1">1589992103982</td><td rowspan="1">7912</td></tr><tr class="failedeven"><td><a href="#m2">validatetingWithIvalidFormatedOfEmailAndPassword</a></td><td rowspan="1">1589992111897</td><td rowspan="1">1733</td></tr><tr class="failedeven"><td><a href="#m3">validatetingWithValidEmailButInvalidPassword</a></td><td rowspan="1">1589992127007</td><td rowspan="1">11879</td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.bridgelabz.testcases.TC_AdminLogin_01</td><td><a href="#m4">validatetingWithValidCridential</a></td><td rowspan="1">1589992113632</td><td rowspan="1">13355</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">com.bridgelabz.testcases.TC_AddBook_01</td><td><a href="#m0">addBook</a></td><td rowspan="1">1590054826392</td><td rowspan="1">97</td></tr><tr class="failedeven"><td><a href="#m1">addingBookWithValidData</a></td><td rowspan="1">1590054826524</td><td rowspan="1">81787</td></tr></tbody>
 </table>
-<h2>Test</h2><h3 id="m0">com.bridgelabz.testcases.TC_AdminLogin_01#validatetingWithInValidCridential</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at com.bridgelabz.testcases.TC_AdminLogin_01.adminLogin(TC_AdminLogin_01.java:78)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.validatetingWithInValidCridential(TC_AdminLogin_01.java:25)
+<h2>Test</h2><h3 id="m0">com.bridgelabz.testcases.TC_AddBook_01#addBook</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//button[@class=&apos;btn-addbook&apos;]&quot;}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-L8973B7&apos;, ip: &apos;192.168.1.12&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_91&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d801eaa4bad094038580595f11b7c4ad
+*** Element info: {Using=xpath, value=//button[@class=&apos;btn-addbook&apos;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at com.bridgelabz.pageObjects.AminDashboardPage.clickOnAddBookButton(AminDashboardPage.java:54)
+	at com.bridgelabz.testcases.TC_AddBook_01.addBook(TC_AddBook_01.java:51)
+	at com.bridgelabz.testcases.TC_AddBook_01.addBook(TC_AddBook_01.java:39)
 ... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.bridgelabz.testcases.TC_AdminLogin_01#validatetingWithInValidEmail</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at com.bridgelabz.testcases.TC_AdminLogin_01.adminLogin(TC_AdminLogin_01.java:78)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.validatetingWithInValidEmail(TC_AdminLogin_01.java:33)
-... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.bridgelabz.testcases.TC_AdminLogin_01#validatetingWithIvalidFormatedOfEmailAndPassword</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:97)
+<h3 id="m1">com.bridgelabz.testcases.TC_AddBook_01#addingBookWithValidData</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;button mat-button=&quot;&quot; class=&quot;mat-button mat-button-base&quot;&gt;...&lt;/button&gt; is not clickable at point (822, 575). Other element would receive the click: &lt;div class=&quot;cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing&quot;&gt;&lt;/div&gt;
+  (Session info: chrome=81.0.4044.138)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-L8973B7&apos;, ip: &apos;192.168.1.12&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_91&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d801eaa4bad094038580595f11b7c4ad
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy11.sendKeys(Unknown Source)
-	at com.bridgelabz.pageObjects.AdminLoginPage.setEmailAddress(AdminLoginPage.java:48)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.adminLogin(TC_AdminLogin_01.java:57)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.validatetingWithIvalidFormatedOfEmailAndPassword(TC_AdminLogin_01.java:48)
-... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">com.bridgelabz.testcases.TC_AdminLogin_01#validatetingWithValidEmailButInvalidPassword</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
-	at com.bridgelabz.testcases.TC_AdminLogin_01.adminLogin(TC_AdminLogin_01.java:78)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.validatetingWithValidEmailButInvalidPassword(TC_AdminLogin_01.java:41)
-... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m4">com.bridgelabz.testcases.TC_AdminLogin_01#validatetingWithValidCridential</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at com.bridgelabz.pageObjects.AminDashboardPage.clickOnSumbmitToAddButton(AminDashboardPage.java:87)
+	at com.bridgelabz.testcases.TC_AddBook_01.addBook(TC_AddBook_01.java:65)
+	at com.bridgelabz.testcases.TC_AddBook_01.addBook(TC_AddBook_01.java:39)
+	at com.bridgelabz.testcases.TC_AddBook_01.addingBookWithValidData(TC_AddBook_01.java:19)
+... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

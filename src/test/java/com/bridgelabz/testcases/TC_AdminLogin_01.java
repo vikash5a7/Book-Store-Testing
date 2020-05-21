@@ -50,7 +50,7 @@ public class TC_AdminLogin_01 extends BaseClass {
 	}
 
 	public void adminLogin(String userEmail, String userPassword) throws InterruptedException, IOException {
-		String captureScreenSortName = "RegistraionFailed" + Util.randomeNum(4);
+		String captureScreenSortName = "loginFailed" + Util.randomeNum(4);
 		AdminLoginPage adminLogin = new AdminLoginPage(driver);
 		logger.info("Email---" + userEmail + "password====" + userPassword);
 		logger.info("********* starting TC_AdminLogin_01 *************");

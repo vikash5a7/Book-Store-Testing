@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 4 failed tests</span>
+      <span class="top-banner-font-1">1 suite, 2 failed tests</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">5 methods, 4 failed,   1 passed</span>
+                    <span class="method-stats">2 methods, 2 failed,   </span>
                   </li>
                   <li>
                     <span class="method-list-title failed">Failed methods</span>
@@ -102,39 +102,15 @@
                     <div class="method-list-content failed suite-Suite">
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.bridgelabz.testcases.TC_AdminLogin_01" hash-for-method="validatetingWithInValidCridential">validatetingWithInValidCridential</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.bridgelabz.testcases.TC_AddBook_01" hash-for-method="addBook">addBook</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.bridgelabz.testcases.TC_AdminLogin_01" hash-for-method="validatetingWithInValidEmail">validatetingWithInValidEmail</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.bridgelabz.testcases.TC_AdminLogin_01" hash-for-method="validatetingWithIvalidFormatedOfEmailAndPassword">validatetingWithIvalidFormatedOfEmailAndPassword</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.bridgelabz.testcases.TC_AdminLogin_01" hash-for-method="validatetingWithValidEmailButInvalidPassword">validatetingWithValidEmailButInvalidPassword</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.bridgelabz.testcases.TC_AddBook_01" hash-for-method="addingBookWithValidData">addingBookWithValidData</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Suite -->
-                  </li>
-                  <li>
-                    <span class="method-list-title passed">Passed methods</span>
-                    <span class="show-or-hide-methods passed">
-                      <a href="#" panel-name="suite-Suite" class="hide-methods passed suite-Suite"> (hide)</a> <!-- hide-methods passed suite-Suite -->
-                      <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
-                    </span>
-                    <div class="method-list-content passed suite-Suite">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.bridgelabz.testcases.TC_AdminLogin_01" hash-for-method="validatetingWithValidCridential">validatetingWithValidCridential</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content passed suite-Suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -149,78 +125,75 @@
           <div class="suite-Suite-class-failed">
             <div class="main-panel-header rounded-window-top">
               <img src="failed.png"/>
-              <span class="class-name">com.bridgelabz.testcases.TC_AdminLogin_01</span>
+              <span class="class-name">com.bridgelabz.testcases.TC_AddBook_01</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="validatetingWithInValidCridential">
-                  </a> <!-- validatetingWithInValidCridential -->
-                  <span class="method-name">validatetingWithInValidCridential</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.bridgelabz.testcases.TC_AdminLogin_01.adminLogin(TC_AdminLogin_01.java:78)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.validatetingWithInValidCridential(TC_AdminLogin_01.java:25)
+                  <a name="addBook">
+                  </a> <!-- addBook -->
+                  <span class="method-name">addBook</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//button[@class=&apos;btn-addbook&apos;]&quot;}
+  (Session info: chrome=81.0.4044.138)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-L8973B7&apos;, ip: &apos;192.168.1.12&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_91&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d801eaa4bad094038580595f11b7c4ad
+*** Element info: {Using=xpath, value=//button[@class=&apos;btn-addbook&apos;]}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at com.bridgelabz.pageObjects.AminDashboardPage.clickOnAddBookButton(AminDashboardPage.java:54)
+	at com.bridgelabz.testcases.TC_AddBook_01.addBook(TC_AddBook_01.java:51)
+	at com.bridgelabz.testcases.TC_AddBook_01.addBook(TC_AddBook_01.java:39)
 ... Removed 29 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
                 <div class="method-content">
-                  <a name="validatetingWithInValidEmail">
-                  </a> <!-- validatetingWithInValidEmail -->
-                  <span class="method-name">validatetingWithInValidEmail</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.bridgelabz.testcases.TC_AdminLogin_01.adminLogin(TC_AdminLogin_01.java:78)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.validatetingWithInValidEmail(TC_AdminLogin_01.java:33)
-... Removed 29 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="validatetingWithIvalidFormatedOfEmailAndPassword">
-                  </a> <!-- validatetingWithIvalidFormatedOfEmailAndPassword -->
-                  <span class="method-name">validatetingWithIvalidFormatedOfEmailAndPassword</span>
-                  <div class="stack-trace">java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:97)
+                  <a name="addingBookWithValidData">
+                  </a> <!-- addingBookWithValidData -->
+                  <span class="method-name">addingBookWithValidData</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;button mat-button=&quot;&quot; class=&quot;mat-button mat-button-base&quot;&gt;...&lt;/button&gt; is not clickable at point (822, 575). Other element would receive the click: &lt;div class=&quot;cdk-overlay-backdrop cdk-overlay-dark-backdrop cdk-overlay-backdrop-showing&quot;&gt;&lt;/div&gt;
+  (Session info: chrome=81.0.4044.138)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-L8973B7&apos;, ip: &apos;192.168.1.12&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_91&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 81.0.4044.138, chrome: {chromedriverVersion: 81.0.4044.69 (6813546031a4b..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:53608}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d801eaa4bad094038580595f11b7c4ad
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
 	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
-	at com.sun.proxy.$Proxy11.sendKeys(Unknown Source)
-	at com.bridgelabz.pageObjects.AdminLoginPage.setEmailAddress(AdminLoginPage.java:48)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.adminLogin(TC_AdminLogin_01.java:57)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.validatetingWithIvalidFormatedOfEmailAndPassword(TC_AdminLogin_01.java:48)
-... Removed 29 stack frames
-</div> <!-- stack-trace -->
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="validatetingWithValidEmailButInvalidPassword">
-                  </a> <!-- validatetingWithValidEmailButInvalidPassword -->
-                  <span class="method-name">validatetingWithValidEmailButInvalidPassword</span>
-                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
-	at com.bridgelabz.testcases.TC_AdminLogin_01.adminLogin(TC_AdminLogin_01.java:78)
-	at com.bridgelabz.testcases.TC_AdminLogin_01.validatetingWithValidEmailButInvalidPassword(TC_AdminLogin_01.java:41)
-... Removed 29 stack frames
+	at com.sun.proxy.$Proxy11.click(Unknown Source)
+	at com.bridgelabz.pageObjects.AminDashboardPage.clickOnSumbmitToAddButton(AminDashboardPage.java:87)
+	at com.bridgelabz.testcases.TC_AddBook_01.addBook(TC_AddBook_01.java:65)
+	at com.bridgelabz.testcases.TC_AddBook_01.addBook(TC_AddBook_01.java:39)
+	at com.bridgelabz.testcases.TC_AddBook_01.addingBookWithValidData(TC_AddBook_01.java:19)
+... Removed 32 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
           </div> <!-- suite-Suite-class-failed -->
-          <div class="suite-Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">com.bridgelabz.testcases.TC_AdminLogin_01</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="validatetingWithValidCridential">
-                  </a> <!-- validatetingWithValidCridential -->
-                  <span class="method-name">validatetingWithValidCridential</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -237,7 +210,7 @@
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;com.bridgelabz.testcases.TC_AdminLogin_01&quot;/&gt;
+      &lt;class name=&quot;com.bridgelabz.testcases.TC_AddBook_01&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -277,32 +250,20 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(5);
+data.addRows(2);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'validatetingWithValidCridential')
-data.setCell(0, 2, 'com.bridgelabz.testcases.TC_AdminLogin_01')
-data.setCell(0, 3, 13355);
+data.setCell(0, 1, 'addingBookWithValidData')
+data.setCell(0, 2, 'com.bridgelabz.testcases.TC_AddBook_01')
+data.setCell(0, 3, 81787);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'validatetingWithValidEmailButInvalidPassword')
-data.setCell(1, 2, 'com.bridgelabz.testcases.TC_AdminLogin_01')
-data.setCell(1, 3, 11879);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'validatetingWithInValidCridential')
-data.setCell(2, 2, 'com.bridgelabz.testcases.TC_AdminLogin_01')
-data.setCell(2, 3, 10473);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'validatetingWithInValidEmail')
-data.setCell(3, 2, 'com.bridgelabz.testcases.TC_AdminLogin_01')
-data.setCell(3, 3, 7912);
-data.setCell(4, 0, 4)
-data.setCell(4, 1, 'validatetingWithIvalidFormatedOfEmailAndPassword')
-data.setCell(4, 2, 'com.bridgelabz.testcases.TC_AdminLogin_01')
-data.setCell(4, 3, 1733);
+data.setCell(1, 1, 'addBook')
+data.setCell(1, 2, 'com.bridgelabz.testcases.TC_AddBook_01')
+data.setCell(1, 3, 97);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 45 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -328,7 +289,7 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.bridgelabz.testcases.TC_AdminLogin_01</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.bridgelabz.testcases.TC_AddBook_01</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup(chrome)</span>
                 <span class="method-start">0 ms</span>
@@ -336,34 +297,18 @@ return data;
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">validatetingWithInValidCridential</span>
-                <span class="method-start">6597 ms</span>
+                <span class="method-name">addBook</span>
+                <span class="method-start">6958 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">validatetingWithInValidEmail</span>
-                <span class="method-start">17116 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">validatetingWithIvalidFormatedOfEmailAndPassword</span>
-                <span class="method-start">25031 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">validatetingWithValidCridential</span>
-                <span class="method-start">26766 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">validatetingWithValidEmailButInvalidPassword</span>
-                <span class="method-start">40141 ms</span>
+                <span class="method-name">addingBookWithValidData</span>
+                <span class="method-start">7090 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">52023 ms</span>
+                <span class="method-start">88882 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
